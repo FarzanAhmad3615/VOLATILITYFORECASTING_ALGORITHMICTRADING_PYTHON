@@ -49,3 +49,5 @@ The comparative analysis yielded the following performance outcomes (as seen in 
 1. Ensure `stock_data.csv` is in the directory with a `Date` and `Close` column.
 2. Install dependencies: `pip install pandas numpy matplotlib statsmodels arch scikit-learn tensorflow`.
 3. Execute the script to generate the **Model Comparison Plot**.
+<img width="1195" height="638" alt="Screenshot 2026-01-01 154140" src="https://github.com/user-attachments/assets/ede44b9d-713a-4c71-9d5c-62129b12e8af" />
+
